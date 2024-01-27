@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Diamond Lovers</title>
+</head>
+
+<body>
+<header>
+<h1>Welcome to Diamond Lovers Website</h1>
+</header>
+
+<section>
+<h2>Photo Gallery</h2>
+
+<div class="photo">
+<img src="amber.jpg" alt="amber">
+<p>Amber Diamond </p>
+</div>
+
+<div class="photo">
+<img src="emerald.png" alt=“emerald">
+<p>Emerald Diamond</p>
+</div>
+
+<div class="photo">
+<img src="ruby.gif" alt="ruby">
+<p>Ruby Diamond</p>
+</div>
+</section>
+
+<footer>
+<p>&copy; 2024 Diamond Lovers. All rights reserved.</p>
+</footer>
+</body>
+
+</html>
+
